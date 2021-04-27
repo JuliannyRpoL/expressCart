@@ -5,6 +5,4 @@ Exercise with docker and docker compose. This project was modified to work in co
 
 - clone the repository.
 - cd to expresscart
-- run: npm i
-- run: npm run testdata
 - run: docker-compose up
